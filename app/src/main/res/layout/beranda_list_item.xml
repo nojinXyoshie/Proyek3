@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<RelativeLayout-->
+        <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:clickable="true"-->
+        <!--android:foreground="?attr/selectableItemBackground"-->
+        <!--android:background="@android:color/white"-->
+        <!--android:padding="@dimen/activity_padding_horizontal"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+    <!--<ImageView-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:src="@mipmap/ic_launcher"-->
+            <!--android:layout_height="150dp"-->
+            <!--android:scaleType="centerCrop"-->
+            <!--android:id="@+id/foto_paket"/>-->
+    <!--<TextView-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_below="@+id/foto_paket"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textColor="#000"-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/nama_paket"-->
+            <!--android:text="Nama Paket"/>-->
+    <!--<TextView-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_below="@+id/nama_paket"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textColor="#000"-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/harga"-->
+            <!--android:text="Harga"/>-->
+<!--</RelativeLayout>-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:card_view="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/linear"
+              android:foreground="?attr/selectableItemBackground"
+              android:clickable="true"
+>
+
+    <android.support.v7.widget.CardView
+            android:id="@+id/card_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/card_margin"
+            android:elevation="3dp"
+            card_view:cardCornerRadius="@dimen/card_album_radius">
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/relative">
+
+            <ImageView
+                    android:id="@+id/foto_ikan"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/card_cover_height"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:clickable="true"
+                    android:scaleType="fitXY" />
+
+            <TextView
+                    android:id="@+id/nama_ikan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/foto_ikan"
+                    android:lines="1"
+                    android:paddingLeft="@dimen/card_title_padding"
+                    android:paddingRight="@dimen/card_title_padding"
+                    android:paddingTop="@dimen/card_title_padding"
+                    android:textColor="#111"
+                    android:text="nama"
+                    android:textSize="11dp" />
+
+            <TextView
+                    android:id="@+id/text_harga_terkini"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/nama_ikan"
+                    android:layout_marginRight="10dp"
+                    android:gravity="left"
+                    android:text="Harga saat ini:"
+                    android:paddingLeft="@dimen/card_title_padding"
+                    android:paddingRight="@dimen/card_title_padding"
+                    android:paddingBottom="@dimen/card_price_padding_bottom"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="11dp" />
+
+            <TextView
+                    android:id="@+id/harga_awal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/text_harga_terkini"
+                    android:layout_marginRight="10dp"
+                    android:gravity="right"
+                    android:paddingBottom="@dimen/card_price_padding_bottom"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="11dp" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

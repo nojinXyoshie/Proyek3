@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lelang</string>
+    <string name="title_riwayat">Riwayat</string>
+    <string name="title_lelang">Lelang</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_cari">Cari</string>
+    <string name="title_profil">Profil</string>
+    <string name="logo">"@drawable/logo"</string>
+</resources>

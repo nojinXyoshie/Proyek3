@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0dad5b698ec3ef648b5fbd0ab19ce6a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/decf3abd8e4dc79723416aa61b902173/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f99fe5f1bde5c3c853d094d992065655/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b0ef4eaabe6dff13db9d3dc672b870b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8a123f0f60fc9d5c3d10c8fc227831e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cddf7d13cdbd4eedc80664233183f3e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6cb10abf2cbeb35f25ff3b5e965cd3b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/132fd029229f125847698a11c9807963/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e628d3e30b8f5d52cfb4a2aa8678d8e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.7.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/butterknife-8.7.0.aar/cb9ab5ee7b410dd0cffdf4a8cfd9a1ae/AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/a50929e4e4f2812bf8f0d11207bea032/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/5e5319bee384889c6bf5c814bc7225ab/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9faa263e5a0444a859b61b8693792108/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/406f1b12c82f2404c3c1ad811f9f5e15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5de817f58665d2f97b4641818dd30475/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d8a0f5b2566334cef202d44fb111aba6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/76b0ad2118feed298c604a1c14976acd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2b0c0c96a8a3440131995e62d4c60a30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8133de6fa2ff40b85cb18862df4935fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f792797c3a31ab99cc946693b0e360c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e77aa00e127928b0914cfa526dce71e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3a29caec02c432d31c592fd8afc8bf9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/915a84db5108536ef58bd2e5fa11df80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4d8a041fe0134506e2b1593bc70f7efb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2c1f6b51de3e2c5691087414e58c60a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/944551c80808e52dd1f0a53f3fd87e2a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b61373acfc9d5c7ae03f8e6647b1baf6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b9e6b52e114e0c8079d5a07d2e44e1a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9f608a87d42c8c4f3448f991fdf151e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/501cf85213ffc6413d30672fc83f5bb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e8cf2b6efb15228387f1dd681cd36e1d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5bbb95ff8a3c08deb3c4d5f983f92f32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bb6ec22b2be65328f4ed90c240287a6a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/20d67726b50216a1c9bda5a4d894ce38/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/801b6269afb7a3548519b79dc5702e40/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7d702ab7e75289c1083b5258bbafdcf3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a82a45e823762683109b3437c04d4e20/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:3:11-47
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:design:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0dad5b698ec3ef648b5fbd0ab19ce6a2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0dad5b698ec3ef648b5fbd0ab19ce6a2/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f99fe5f1bde5c3c853d094d992065655/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f99fe5f1bde5c3c853d094d992065655/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e628d3e30b8f5d52cfb4a2aa8678d8e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e628d3e30b8f5d52cfb4a2aa8678d8e/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/a50929e4e4f2812bf8f0d11207bea032/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/a50929e4e4f2812bf8f0d11207bea032/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/944551c80808e52dd1f0a53f3fd87e2a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/944551c80808e52dd1f0a53f3fd87e2a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b61373acfc9d5c7ae03f8e6647b1baf6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b61373acfc9d5c7ae03f8e6647b1baf6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/944551c80808e52dd1f0a53f3fd87e2a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:15:13-39
+	android:label
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:13:13-45
+	android:roundIcon
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:14:13-58
+	android:largeHeap
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:11:13-37
+	android:icon
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:12:13-42
+	android:allowBackup
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:10:13-39
+	android:theme
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:9:13-46
+activity#com.example.nojinx2.lelang.auth.Login
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:17:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.nojinx2.lelang.HomeActivity
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:24:9-75
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:24:19-73
+activity#com.example.nojinx2.lelang.auth.Register
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:25:9-108
+	android:theme
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:25:75-106
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:25:19-74
+activity#com.example.nojinx2.lelang.Detail_paket
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:26:9-75
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:26:19-73
+activity#com.example.nojinx2.lelang.PenjualActivity
+ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:27:9-78
+	android:name
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml:27:19-76
+uses-sdk
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0dad5b698ec3ef648b5fbd0ab19ce6a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0dad5b698ec3ef648b5fbd0ab19ce6a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/decf3abd8e4dc79723416aa61b902173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/decf3abd8e4dc79723416aa61b902173/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f99fe5f1bde5c3c853d094d992065655/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f99fe5f1bde5c3c853d094d992065655/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b0ef4eaabe6dff13db9d3dc672b870b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/b0ef4eaabe6dff13db9d3dc672b870b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8a123f0f60fc9d5c3d10c8fc227831e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/8a123f0f60fc9d5c3d10c8fc227831e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cddf7d13cdbd4eedc80664233183f3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/cddf7d13cdbd4eedc80664233183f3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6cb10abf2cbeb35f25ff3b5e965cd3b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6cb10abf2cbeb35f25ff3b5e965cd3b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/132fd029229f125847698a11c9807963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/132fd029229f125847698a11c9807963/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e628d3e30b8f5d52cfb4a2aa8678d8e/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/8e628d3e30b8f5d52cfb4a2aa8678d8e/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/butterknife-8.7.0.aar/cb9ab5ee7b410dd0cffdf4a8cfd9a1ae/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/butterknife-8.7.0.aar/cb9ab5ee7b410dd0cffdf4a8cfd9a1ae/AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/a50929e4e4f2812bf8f0d11207bea032/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/a50929e4e4f2812bf8f0d11207bea032/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/5e5319bee384889c6bf5c814bc7225ab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/shimmer-0.1.0.aar/5e5319bee384889c6bf5c814bc7225ab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9faa263e5a0444a859b61b8693792108/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/9faa263e5a0444a859b61b8693792108/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/406f1b12c82f2404c3c1ad811f9f5e15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/406f1b12c82f2404c3c1ad811f9f5e15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5de817f58665d2f97b4641818dd30475/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5de817f58665d2f97b4641818dd30475/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d8a0f5b2566334cef202d44fb111aba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d8a0f5b2566334cef202d44fb111aba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/76b0ad2118feed298c604a1c14976acd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/76b0ad2118feed298c604a1c14976acd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2b0c0c96a8a3440131995e62d4c60a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2b0c0c96a8a3440131995e62d4c60a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8133de6fa2ff40b85cb18862df4935fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8133de6fa2ff40b85cb18862df4935fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f792797c3a31ab99cc946693b0e360c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f792797c3a31ab99cc946693b0e360c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e77aa00e127928b0914cfa526dce71e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e77aa00e127928b0914cfa526dce71e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3a29caec02c432d31c592fd8afc8bf9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3a29caec02c432d31c592fd8afc8bf9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/915a84db5108536ef58bd2e5fa11df80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/915a84db5108536ef58bd2e5fa11df80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4d8a041fe0134506e2b1593bc70f7efb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4d8a041fe0134506e2b1593bc70f7efb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2c1f6b51de3e2c5691087414e58c60a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2c1f6b51de3e2c5691087414e58c60a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/944551c80808e52dd1f0a53f3fd87e2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/944551c80808e52dd1f0a53f3fd87e2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b61373acfc9d5c7ae03f8e6647b1baf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/b61373acfc9d5c7ae03f8e6647b1baf6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b9e6b52e114e0c8079d5a07d2e44e1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b9e6b52e114e0c8079d5a07d2e44e1a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9f608a87d42c8c4f3448f991fdf151e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/9f608a87d42c8c4f3448f991fdf151e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/501cf85213ffc6413d30672fc83f5bb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/501cf85213ffc6413d30672fc83f5bb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e8cf2b6efb15228387f1dd681cd36e1d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e8cf2b6efb15228387f1dd681cd36e1d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5bbb95ff8a3c08deb3c4d5f983f92f32/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5bbb95ff8a3c08deb3c4d5f983f92f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bb6ec22b2be65328f4ed90c240287a6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bb6ec22b2be65328f4ed90c240287a6a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/20d67726b50216a1c9bda5a4d894ce38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/20d67726b50216a1c9bda5a4d894ce38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/801b6269afb7a3548519b79dc5702e40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/801b6269afb7a3548519b79dc5702e40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7d702ab7e75289c1083b5258bbafdcf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7d702ab7e75289c1083b5258bbafdcf3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a82a45e823762683109b3437c04d4e20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/nojinx2/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a82a45e823762683109b3437c04d4e20/AndroidManifest.xml:20:5-44
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+		ADDED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nojinx2/AndroidStudioProjects/Lelang/app/src/main/AndroidManifest.xml
